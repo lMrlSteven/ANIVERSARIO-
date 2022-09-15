@@ -1,0 +1,36 @@
+*{
+    margin: 0;
+}
+
+.contenedor{
+  background-image: url(MUSEO.jpeg);
+  width: 100vw;
+  height: 170vh;
+  text-align: center;
+  padding: 0%;
+}
+
+p{
+    font-size: 300%;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    padding: 2%;
+    color: white;
+    
+}
+
+button{
+    font-size: xx-large;
+    padding: 0.50cm;
+}
+
+#yesBtn{
+    transform: translate(-100%,0);
+}
+
+#noBtn{
+    position: absolute;
+}
+
+image{
+    right: 0in;
+}
